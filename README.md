@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanmaya Kumar Naik</h1>
 <h3 align="center">I'm a passionate learner and skill hungry from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1264905/screenshots/3182478/media/62aa1d4517fe36468df9e1d9ac27c1da.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/TanCannon/TanCannon/blob/main/github_profile_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tancannon&label=Profile%20views&color=0e75b6&style=flat" alt="tancannon" /> </p>
 
