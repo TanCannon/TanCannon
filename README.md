@@ -1,4 +1,4 @@
-![logo]()
+<!--![logo]()-->
 <h1 align="center">Hi 👋, I'm Tanmaya Kumar Naik</h1>
 <h3 align="center">I'm a passionate learner and skill hungry from India.</h3>
 
