@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tancannon&label=Profile%20views&color=0e75b6&style=flat" alt="tancannon" /> </p>
 
-- 🌱 I’m currently learning **Flask and Tkinter**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **tanmayakumarnaik2003@gmail.com**
 
