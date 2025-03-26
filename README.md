@@ -6,9 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tancannon&label=Profile%20views&color=0e75b6&style=flat" alt="tancannon" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django Rest Framework**
 
 - 📫 How to reach me **tanmayakumarnaik2003@gmail.com**
+- 🌐📝 My blog page **tancannon2003.pythonanywhere.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
