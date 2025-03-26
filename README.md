@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning **Django Rest Framework**
 
 - 📫 How to reach me **tanmayakumarnaik2003@gmail.com**
-- 🌐📝 My blog page **tancannon2003.pythonanywhere.com**
+- 🌐📝 My blog page
+  <a href="tancannon2003.pythonanywhere.com">Tan's Blogpost</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
