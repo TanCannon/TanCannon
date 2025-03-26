@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tanmayakumarnaik2003@gmail.com**
 - 🌐📝 My blog page
-  <a href="tancannon2003.pythonanywhere.com">Tan's Blogpost</a>
+  <a href="https://tancannon2003.pythonanywhere.com/">Tan's Blogpost</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
