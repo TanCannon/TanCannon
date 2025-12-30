@@ -1,12 +1,16 @@
 <!--![logo]()-->
 <h1 align="center">Hi 👋, I'm Tanmaya Kumar Naik</h1>
-<h3 align="center">I'm a passionate learner and skill hungry from India.</h3>
+<h2 align="center">Just two words <em>Adaptable and Passionate learner</em>.</h2>
+<p>As you go down to see what this guy is upto, I assure you'll feel confused to see some random repos pinned. Who am I actually? Let's just say I have been to just "fundamentally" into <code>robotics, designing and web applications</code>. The repo list looks small but they tell about the <code>architectural, clean code, ideas and my hobbies</code>. I'm the person who has tried to take a feel of every fields that I was able to, still try maintaining my cgpa in engineering ( isn't that what we did in our early days of programming). The job rush is harsh. But the passion inside you always pushed you to do experimentation but without some serious project your're not landing any job. Ever thought of putting together what your experiments have given you so far and create a unique (don't say unique stuff/thing anymore) say! <code>product</code> of your own or for the company your're working for. I'm that kind of person, having some relevent experience in the fields I experimented, I know how to plan, execute and ship things economically.</p>
+<p>Well that some brief about me.</p>
+<blockquote>Yeah I know the title have three words not two!</blockquote>
+<p>If your're intersted you can contact me on my email below.</p>
 
 <img align="right" alt="coding" width="400" src="https://github.com/TanCannon/TanCannon/blob/main/github_profile_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tancannon&label=Profile%20views&color=0e75b6&style=flat" alt="tancannon" /> </p>
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **Angular and Pyspark**
 
 - 📫 How to reach me **tanmayakumarnaik2003@gmail.com**
 - 🌐📝 My blog page
@@ -19,15 +23,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+<!-- python icon -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<!-- c icon -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<!-- c++ icon -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<!-- css icon -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<!-- html icon -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<!-- flask icon -->
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg" alt="flask"/> </a> 
+<!-- django icon -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<!-- mysql icon -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<!-- arduino icon -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
