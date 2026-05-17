@@ -6,7 +6,7 @@
 <blockquote>Yeah I know the title have three words not two!</blockquote>
 <p>If your're intersted you can contact me on my email below.</p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/TanCannon/TanCannon/blob/main/github_profile_gif.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://github.com/TanCannon/TanCannon/blob/main/github_profile_gif.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tancannon&label=Profile%20views&color=0e75b6&style=flat" alt="tancannon" /> </p>
 
